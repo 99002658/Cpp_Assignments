@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1600924115 source:d:\temp\new life\set_2\main.cpp
+	<iostream>
+	"distance.h"
+	"currency.h"
+	"fraction.h"
+	"mytime.h"
+	"complex_num.h"
+
+1600924080 d:\temp\new life\set_2\complex_num.h
+
+1600923991 d:\temp\new life\set_2\distance.h
+
+1600924012 d:\temp\new life\set_2\currency.h
+
+1600924039 d:\temp\new life\set_2\fraction.h
+	<string>
+
+1600924057 d:\temp\new life\set_2\mytime.h
+

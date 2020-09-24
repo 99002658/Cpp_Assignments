@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1600931752 source:d:\temp\new life\set_3\main.cpp
+	<iostream>
+	<math.h>
+	"polygon.h"
+	"shape.h"
+	"rectangle.h"
+	"circle.h"
+	"triangle.h"
+	"employee.h"
+	"engineer.h"
+	"trainee.h"
+	"manager.h"
+	"account.h"
+	"credit.h"
+	"saving.h"
+	"customer.h"
+	"postpaid.h"
+	"prepaid.h"
+
+1600844773 d:\temp\new life\set_3\account.h
+	<string>
+
+1600820448 d:\temp\new life\set_3\credit.h
+	<string>
+	"account.h"
+
+1600820471 d:\temp\new life\set_3\saving.h
+	<string>
+	"account.h"
+
+1600820685 d:\temp\new life\set_3\polygon.h
+	"shape.h"
+
+1600820837 d:\temp\new life\set_3\shape.h
+
+1600820808 d:\temp\new life\set_3\rectangle.h
+	"polygon.h"
+
+1600820513 d:\temp\new life\set_3\circle.h
+	"shape.h"
+
+1600840868 d:\temp\new life\set_3\triangle.h
+	"polygon.h"
+
+1600932803 d:\temp\new life\set_3\employee.h
+	<string>
+
+1600932819 d:\temp\new life\set_3\engineer.h
+	"employee.h"
+
+1600932866 d:\temp\new life\set_3\trainee.h
+	"employee.h"
+
+1600932841 d:\temp\new life\set_3\manager.h
+	"employee.h"
+
+1600820540 d:\temp\new life\set_3\customer.h
+	<string>
+	<cstdint>
+
+1600820781 d:\temp\new life\set_3\postpaid.h
+	<string>
+	<cstdint>
+	"customer.h"
+
+1600820777 d:\temp\new life\set_3\prepaid.h
+	<string>
+	<cstdint>
+	"customer.h"
+
+1600932774 source:d:\temp\new life\set_3\test.cpp
+	<iostream>
+	"account.h"
+	"credit.h"
+	"saving.h"
+	"shape.h"
+	"polygon.h"
+	"triangle.h"
+	"rectangle.h"
+	"circle.h"
+	"customer.h"
+	"postpaid.h"
+	"prepaid.h"
+	"employee.h"
+	"engineer.h"
+	"manager.h"
+	"trainee.h"
+	<gtest/gtest.h>
+
+1600930586 source:d:\temp\new life\set_3\test_2.cpp
+	<iostream>
+	"shape.h"
+	"polygon.h"
+	"triangle.h"
+	"rectangle.h"
+	"circle.h"
+	<gtest/gtest.h>
+

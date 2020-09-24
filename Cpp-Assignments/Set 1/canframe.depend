@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1600682338 source:d:\temp\new life\canframe\main.cpp
+	<iostream>
+	"account.h"
+	"color.h"
+	"image.h"
+	"point.h"
+	"customer.h"
+	"box.h"
+	"ip.h"
+	<math.h>
+
+1600659910 d:\temp\new life\canframe\box.h
+
+1600659935 d:\temp\new life\canframe\point.h
+	<iostream>
+
+1600659952 d:\temp\new life\canframe\account.h
+	<string>
+
+1600680494 d:\temp\new life\canframe\ip.h
+	<iostream>
+	<stdio.h>
+
+1600659992 d:\temp\new life\canframe\color.h
+
+1600660007 d:\temp\new life\canframe\image.h
+	<string>
+
+1600678185 d:\temp\new life\canframe\customer.h
+	<iostream>
+	<string>
+
+1600403628 d:\temp\new life\canframe\point_1.h
+	<iostream>
+
+1600409492 d:\temp\new life\canframe\ip_num.h
+	<iostream>
+	<stdio.h>
+	<string>
+
+1600682374 source:d:\temp\new life\canframe\test file.cc
+	"account.h"
+	"color.h"
+	"image.h"
+	"box.h"
+	"customer.h"
+	"ip.h"
+	"point.h"
+	<gtest/gtest.h>
+
