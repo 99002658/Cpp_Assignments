@@ -15,4 +15,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: make all
-      run: make all -C/Cpp_Assignments/Set\ 1/
+      run: make all -C Cpp_Assignments/Set\ 1/
