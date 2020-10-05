@@ -15,10 +15,10 @@ jobs:
     - name: Install cppcheck
       run: sudo apt-get -y install cppcheck
     - name: Cppcheck code
-      run: cppcheck Cpp_Assignments/Set\ 1
+      run: cppcheck Cpp_Assignments/Set 1
     - name: Cppcheck code
-      run: cppcheck Cpp_Assignments/Set\ 2
+      run: cppcheck Cpp_Assignments/Set 2
     - name: Cppcheck code
-      run: cppcheck Cpp_Assignments/Set\ 3
+      run: cppcheck Cpp_Assignments/Set 3
     - name: Cppcheck code
-      run: cppcheck Cpp_Assignments/Set\ 4
+      run: cppcheck Cpp_Assignments/Set 4
